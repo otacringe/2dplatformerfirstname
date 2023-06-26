@@ -1,4 +1,4 @@
 # 2dplatformerfirstname
-repo to manage platformer in unity
+Repo to manage the 2d platformer done in Unity for game design this week
 
-this is just a repo for the 2d platformer i'm doing for the game design class this week
+can we put anything in here. what if the joker could beatbox. why so serious? bhm ha ha ha hahahaha hahahaha bhm
